@@ -13,6 +13,8 @@ public class InputExercise : MonoBehaviour {
 
 	void Update (){
 		if(!usingController){
+
+
 			//Keyboard
 			if(Input.GetKeyDown(KeyCode.Alpha1)){
 				c1.material.color = Color.red;

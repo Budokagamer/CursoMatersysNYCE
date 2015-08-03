@@ -19,8 +19,31 @@ public class MoveCube : MonoBehaviour {
 		transform.Rotate(Vector3.up , x * Time.deltaTime * rotSpeed);
 
 		//Escala
-		float scale = Mathf.Abs(z);
+		//float scale = Mathf.Abs(z);
 
-		transform.localScale = new Vector3(1 + scale,1 + scale,1 + scale);
+		//transform.localScale = new Vector3(1 + scale,1 + scale,1 + scale);
 	}
+
+	void OnCollisionEnter(Collision collision){
+		if(collision.gameObject.name == "Ball"){
+			collision.rigidbody.AddForceAtPosition(
+				-collision.contacts[0].normal* 10, 
+				collision.contacts[0].point,
+				ForceMode.Impulse);
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
