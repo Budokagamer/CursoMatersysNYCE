@@ -25,8 +25,21 @@ public class BallBehviour : MonoBehaviour {
 
 
 
-/*
-void OnCollisionEnter(Collision collision){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*void OnCollisionEnter(Collision collision){
 	GetComponent<Renderer>().material.color = Color.red;
 }
 
@@ -36,4 +49,9 @@ void OnCollisionExit(Collision collision){
 
 void OnCollisionStay(Collision collision){
 	GetComponent<Renderer>().material.color = Color.green;
-}*/
+}
+
+
+*/
+
+
