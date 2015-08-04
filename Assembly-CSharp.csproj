@@ -46,7 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BallBehaviour.cs" />
      <Compile Include="Assets\BallBehviour.cs" />
+     <Compile Include="Assets\ControlPaleta.cs" />
      <Compile Include="Assets\FireBehaviour.cs" />
      <Compile Include="Assets\HelloWorld.cs" />
      <Compile Include="Assets\InputExercise.cs" />
@@ -54,6 +56,7 @@
      <Compile Include="Assets\MagicalEffects\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\MoveCube.cs" />
      <Compile Include="Assets\ObjectPool.cs" />
+     <Compile Include="Assets\Rebotador.cs" />
      <Compile Include="Assets\Singleton.cs" />
      <Compile Include="Assets\VectorExercise.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />

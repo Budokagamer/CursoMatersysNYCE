@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Appsorama\NeonBraincubePrism\Assets\EverplayController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ControlPaleta.cs">
     <Files>
-      <File FileName="..\..\Appsorama\NeonBraincubePrism\Assets\EverplayController.cs" Line="26" Column="27" />
+      <File FileName="Assets\BallBehaviour.cs" Line="17" Column="39" />
+      <File FileName="Assets\ControlPaleta.cs" Line="15" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
