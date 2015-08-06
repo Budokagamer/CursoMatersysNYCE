@@ -54,6 +54,7 @@
      <Compile Include="Assets\InputExercise.cs" />
      <Compile Include="Assets\LightBehaviour.cs" />
      <Compile Include="Assets\LightController.cs" />
+     <Compile Include="Assets\LightStrobe.cs" />
      <Compile Include="Assets\MagicalEffects\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\MoveCube.cs" />
      <Compile Include="Assets\ObjectPool.cs" />
