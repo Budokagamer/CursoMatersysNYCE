@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 7dcb3171baf80304c8b397da560f2d48
+timeCreated: 1438870666
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: apagador
+    100002: Apagador2
+    100004: //RootNode
+    100006: Aspas
+    100008: base_apagador
+    100010: Base_apagador2
+    100012: Base_Boton
+    100014: Base_Niveles
+    100016: base_perilla
+    100018: boton
+    100020: Boton_Niveles
+    100022: Brazo
+    100024: Campana1
+    100026: CampanaGRP
+    100028: ElevadorCTRL
+    100030: ElevadorDER
+    100032: elevadorIZQ
+    100034: Foco
+    100036: FocoGRP
+    100038: perilla
+    100040: Puerta_3_Pasos
+    100042: Reja
+    100044: VentiladorGRP
+    400000: apagador
+    400002: Apagador2
+    400004: //RootNode
+    400006: Aspas
+    400008: base_apagador
+    400010: Base_apagador2
+    400012: Base_Boton
+    400014: Base_Niveles
+    400016: base_perilla
+    400018: boton
+    400020: Boton_Niveles
+    400022: Brazo
+    400024: Campana1
+    400026: CampanaGRP
+    400028: ElevadorCTRL
+    400030: ElevadorDER
+    400032: elevadorIZQ
+    400034: Foco
+    400036: FocoGRP
+    400038: perilla
+    400040: Puerta_3_Pasos
+    400042: Reja
+    400044: VentiladorGRP
+    2300000: apagador
+    2300002: Apagador2
+    2300004: Aspas
+    2300006: base_apagador
+    2300008: Base_apagador2
+    2300010: Base_Boton
+    2300012: Base_Niveles
+    2300014: base_perilla
+    2300016: boton
+    2300018: Boton_Niveles
+    2300020: Brazo
+    2300022: Campana1
+    2300024: ElevadorDER
+    2300026: elevadorIZQ
+    2300028: Foco
+    2300030: perilla
+    2300032: Reja
+    3300000: apagador
+    3300002: Apagador2
+    3300004: Aspas
+    3300006: base_apagador
+    3300008: Base_apagador2
+    3300010: Base_Boton
+    3300012: Base_Niveles
+    3300014: base_perilla
+    3300016: boton
+    3300018: Boton_Niveles
+    3300020: Brazo
+    3300022: Campana1
+    3300024: ElevadorDER
+    3300026: elevadorIZQ
+    3300028: Foco
+    3300030: perilla
+    3300032: Reja
+    4300000: perilla
+    4300002: base_perilla
+    4300004: Aspas
+    4300006: boton
+    4300008: Base_Boton
+    4300010: Brazo
+    4300012: Campana1
+    4300014: apagador
+    4300016: base_apagador
+    4300018: Foco
+    4300020: Base_apagador2
+    4300022: Apagador2
+    4300024: Reja
+    4300026: Boton_Niveles
+    4300028: Base_Niveles
+    4300030: ElevadorDER
+    4300032: elevadorIZQ
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

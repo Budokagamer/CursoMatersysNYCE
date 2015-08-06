@@ -4,12 +4,12 @@ using System.Collections;
 
 public class PickingPrimeraVersion : MonoBehaviour {
 
-	Vector3 delta;
 	float z;
 
 
 	void Start(){
-		z = Vector3.Distance(Camera.main.transform.position,transform.position);
+		z = Vector3.Distance(Camera.main.transform.position,
+		                     transform.position);
 	}
 
 	void OnMouseDown(){
@@ -18,7 +18,6 @@ public class PickingPrimeraVersion : MonoBehaviour {
 
 	
 	void OnMouseDrag(){
-		//print (Camera.main.ScreenPointToRay(Input.mousePosition).origin);
 		transform.position = Camera.main.transform.position + 
 							Camera.main.ScreenPointToRay(Input.mousePosition).direction*z ;
 
