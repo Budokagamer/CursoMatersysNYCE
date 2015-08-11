@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: b0f0f372026603d40b11dab664296104
+timeCreated: 1439302635
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BrazoDER5
+    100002: BrazoDER6
+    100004: BrazoDER7
+    100006: BrazoDER8
+    100008: BrazoDER9
+    100010: BrazoIZQ10
+    100012: BrazoIZQ11
+    100014: BrazoIZQ12
+    100016: BrazoIZQ13
+    100018: BrazoIZQ14
+    100020: BrazoIZQ20
+    100022: BrazoIZQ21
+    100024: BrazoIZQ22
+    100026: BrazoIZQ7
+    100028: BrazoIZQ8
+    100030: BrazoIZQ9
+    100032: Cabeza
+    100034: CabezaTOP
+    100036: Cadera
+    100038: Cejas
+    100040: ClavDER
+    100042: ClavIZQ
+    100044: Cola15
+    100046: Cola16
+    100048: Cola17
+    100050: Cola18
+    100052: Cola19
+    100054: Cola20
+    100056: Cola21
+    100058: Cola22
+    100060: Cola23
+    100062: Cola24
+    100064: controller25
+    100066: Costillas
+    100068: Cuerpo
+    100070: Espalda
+    100072: GRAL_CTRL
+    100074: group6
+    100076: Hueso
+    100078: joint10
+    100080: joint11
+    100082: joint13
+    100084: joint14
+    100086: joint15
+    100088: joint5
+    100090: joint6
+    100092: joint8
+    100094: joint9
+    100096: Nariz
+    100098: OjoDER
+    100100: OjoIZQ
+    100102: Oreja25
+    100104: Oreja33
+    100106: OrejaDER34
+    100108: OrejaDER35
+    100110: OrejaDER36
+    100112: OrejaDER37
+    100114: OrejaDER38
+    100116: OrejaDER39
+    100118: OrejaDER40
+    100120: OrejaIZQ26
+    100122: OrejaIZQ27
+    100124: OrejaIZQ28
+    100126: OrejaIZQ29
+    100128: OrejaIZQ30
+    100130: OrejaIZQ31
+    100132: OrejaIZQ32
+    100134: Panza
+    100136: //RootNode
+    100138: PieIzq
+    100140: PieIzq1
+    100142: piernaDER
+    100144: piernaIZQ
+    100146: Placa
+    100148: PlantaIzq
+    100150: PlantaIzq1
+    100152: Quijada
+    100154: Quijada02
+    100156: Root1
+    100158: Trigo
+    400000: BrazoDER5
+    400002: BrazoDER6
+    400004: BrazoDER7
+    400006: BrazoDER8
+    400008: BrazoDER9
+    400010: BrazoIZQ10
+    400012: BrazoIZQ11
+    400014: BrazoIZQ12
+    400016: BrazoIZQ13
+    400018: BrazoIZQ14
+    400020: BrazoIZQ20
+    400022: BrazoIZQ21
+    400024: BrazoIZQ22
+    400026: BrazoIZQ7
+    400028: BrazoIZQ8
+    400030: BrazoIZQ9
+    400032: Cabeza
+    400034: CabezaTOP
+    400036: Cadera
+    400038: Cejas
+    400040: ClavDER
+    400042: ClavIZQ
+    400044: Cola15
+    400046: Cola16
+    400048: Cola17
+    400050: Cola18
+    400052: Cola19
+    400054: Cola20
+    400056: Cola21
+    400058: Cola22
+    400060: Cola23
+    400062: Cola24
+    400064: controller25
+    400066: Costillas
+    400068: Cuerpo
+    400070: Espalda
+    400072: GRAL_CTRL
+    400074: group6
+    400076: Hueso
+    400078: joint10
+    400080: joint11
+    400082: joint13
+    400084: joint14
+    400086: joint15
+    400088: joint5
+    400090: joint6
+    400092: joint8
+    400094: joint9
+    400096: Nariz
+    400098: OjoDER
+    400100: OjoIZQ
+    400102: Oreja25
+    400104: Oreja33
+    400106: OrejaDER34
+    400108: OrejaDER35
+    400110: OrejaDER36
+    400112: OrejaDER37
+    400114: OrejaDER38
+    400116: OrejaDER39
+    400118: OrejaDER40
+    400120: OrejaIZQ26
+    400122: OrejaIZQ27
+    400124: OrejaIZQ28
+    400126: OrejaIZQ29
+    400128: OrejaIZQ30
+    400130: OrejaIZQ31
+    400132: OrejaIZQ32
+    400134: Panza
+    400136: //RootNode
+    400138: PieIzq
+    400140: PieIzq1
+    400142: piernaDER
+    400144: piernaIZQ
+    400146: Placa
+    400148: PlantaIzq
+    400150: PlantaIzq1
+    400152: Quijada
+    400154: Quijada02
+    400156: Root1
+    400158: Trigo
+    2300000: Cejas
+    2300002: Hueso
+    2300004: Nariz
+    2300006: OjoDER
+    2300008: OjoIZQ
+    2300010: Trigo
+    3300000: Cejas
+    3300002: Hueso
+    3300004: Nariz
+    3300006: OjoDER
+    3300008: OjoIZQ
+    3300010: Trigo
+    4300000: Cuerpo
+    4300002: OjoIZQ
+    4300004: OjoDER
+    4300006: Cejas
+    4300008: Nariz
+    4300010: Trigo
+    4300012: Hueso
+    7400000: Throw
+    7400002: Fly
+    7400004: Dance
+    7400006: Caer
+    9500000: //RootNode
+    13700000: Cuerpo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Throw
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .61924684
+        functionName: ThrowEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cuerpo
+        weight: 1
+      - path: GRAL_CTRL
+        weight: 1
+      - path: GRAL_CTRL/controller25
+        weight: 1
+      - path: GRAL_CTRL/group6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22/Cola23
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22/Cola23/Cola24
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30/OrejaIZQ31
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30/OrejaIZQ31/OrejaIZQ32
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38/OrejaDER39
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38/OrejaDER39/OrejaDER40
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Cejas
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Nariz
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/OjoDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/OjoIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Quijada
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Quijada/Quijada02
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Trigo
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20/BrazoIZQ21
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20/BrazoIZQ21/BrazoIZQ22
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12/BrazoIZQ13
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12/BrazoIZQ13/BrazoIZQ14
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa/Hueso
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa/joint8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1/PlantaIzq1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1/PlantaIzq1/joint6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq/PlantaIzq
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq/PlantaIzq/joint5
+        weight: 1
+      - path: joint9
+        weight: 1
+      - path: joint9/joint10
+        weight: 1
+      - path: joint9/joint10/joint11
+        weight: 1
+      - path: joint13
+        weight: 1
+      - path: joint13/joint14
+        weight: 1
+      - path: joint13/joint14/joint15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Fly
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cuerpo
+        weight: 1
+      - path: GRAL_CTRL
+        weight: 1
+      - path: GRAL_CTRL/controller25
+        weight: 1
+      - path: GRAL_CTRL/group6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22/Cola23
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22/Cola23/Cola24
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30/OrejaIZQ31
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30/OrejaIZQ31/OrejaIZQ32
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38/OrejaDER39
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38/OrejaDER39/OrejaDER40
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Cejas
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Nariz
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/OjoDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/OjoIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Quijada
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Quijada/Quijada02
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Trigo
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20/BrazoIZQ21
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20/BrazoIZQ21/BrazoIZQ22
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12/BrazoIZQ13
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12/BrazoIZQ13/BrazoIZQ14
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa/Hueso
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa/joint8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1/PlantaIzq1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1/PlantaIzq1/joint6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq/PlantaIzq
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq/PlantaIzq/joint5
+        weight: 1
+      - path: joint9
+        weight: 1
+      - path: joint9/joint10
+        weight: 1
+      - path: joint9/joint10/joint11
+        weight: 1
+      - path: joint13
+        weight: 1
+      - path: joint13/joint14
+        weight: 1
+      - path: joint13/joint14/joint15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Dance
+      takeName: Take 001
+      firstFrame: 79
+      lastFrame: 112
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cuerpo
+        weight: 1
+      - path: GRAL_CTRL
+        weight: 1
+      - path: GRAL_CTRL/controller25
+        weight: 1
+      - path: GRAL_CTRL/group6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22/Cola23
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22/Cola23/Cola24
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30/OrejaIZQ31
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30/OrejaIZQ31/OrejaIZQ32
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38/OrejaDER39
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38/OrejaDER39/OrejaDER40
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Cejas
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Nariz
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/OjoDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/OjoIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Quijada
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Quijada/Quijada02
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Trigo
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20/BrazoIZQ21
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20/BrazoIZQ21/BrazoIZQ22
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12/BrazoIZQ13
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12/BrazoIZQ13/BrazoIZQ14
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa/Hueso
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa/joint8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1/PlantaIzq1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1/PlantaIzq1/joint6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq/PlantaIzq
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq/PlantaIzq/joint5
+        weight: 1
+      - path: joint9
+        weight: 1
+      - path: joint9/joint10
+        weight: 1
+      - path: joint9/joint10/joint11
+        weight: 1
+      - path: joint13
+        weight: 1
+      - path: joint13/joint14
+        weight: 1
+      - path: joint13/joint14/joint15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Caer
+      takeName: Take 001
+      firstFrame: 77
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cuerpo
+        weight: 1
+      - path: GRAL_CTRL
+        weight: 1
+      - path: GRAL_CTRL/controller25
+        weight: 1
+      - path: GRAL_CTRL/group6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22/Cola23
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Cola15/Cola16/Cola17/Cola18/Cola19/Cola20/Cola21/Cola22/Cola23/Cola24
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30/OrejaIZQ31
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja25/OrejaIZQ26/OrejaIZQ27/OrejaIZQ28/OrejaIZQ29/OrejaIZQ30/OrejaIZQ31/OrejaIZQ32
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38/OrejaDER39
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/CabezaTOP/Oreja33/OrejaDER34/OrejaDER35/OrejaDER36/OrejaDER37/OrejaDER38/OrejaDER39/OrejaDER40
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Cejas
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Nariz
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/OjoDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/OjoIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Quijada
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Quijada/Quijada02
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Cabeza/Trigo
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20/BrazoIZQ21
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavDER/BrazoDER5/BrazoDER6/BrazoDER7/BrazoDER8/BrazoDER9/BrazoIZQ20/BrazoIZQ21/BrazoIZQ22
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12/BrazoIZQ13
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/ClavIZQ/BrazoIZQ7/BrazoIZQ8/BrazoIZQ9/BrazoIZQ10/BrazoIZQ11/BrazoIZQ12/BrazoIZQ13/BrazoIZQ14
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa/Hueso
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/Panza/Costillas/Espalda/Placa/joint8
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1/PlantaIzq1
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaDER/PieIzq1/PlantaIzq1/joint6
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq/PlantaIzq
+        weight: 1
+      - path: GRAL_CTRL/group6/Root1/Cadera/piernaIZQ/PieIzq/PlantaIzq/joint5
+        weight: 1
+      - path: joint9
+        weight: 1
+      - path: joint9/joint10
+        weight: 1
+      - path: joint9/joint10/joint11
+        weight: 1
+      - path: joint13
+        weight: 1
+      - path: joint13/joint14
+        weight: 1
+      - path: joint13/joint14/joint15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

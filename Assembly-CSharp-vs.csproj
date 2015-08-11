@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\BallBehaviour.cs" />
      <Compile Include="Assets\BallBehviour.cs" />
+     <Compile Include="Assets\BoneBehaviour.cs" />
      <Compile Include="Assets\ControlPaleta.cs" />
      <Compile Include="Assets\FireBehaviour.cs" />
      <Compile Include="Assets\HelloWorld.cs" />
@@ -60,6 +61,7 @@
      <Compile Include="Assets\ObjectPool.cs" />
      <Compile Include="Assets\Picking.cs" />
      <Compile Include="Assets\PickingPrimeraVersion.cs" />
+     <Compile Include="Assets\PugAnimatorController.cs" />
      <Compile Include="Assets\Rebotador.cs" />
      <Compile Include="Assets\Singleton.cs" />
      <Compile Include="Assets\ThirdPersonCamera.cs" />
