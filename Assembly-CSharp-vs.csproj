@@ -49,6 +49,7 @@
      <Compile Include="Assets\BallBehaviour.cs" />
      <Compile Include="Assets\BallBehviour.cs" />
      <Compile Include="Assets\BoneBehaviour.cs" />
+     <Compile Include="Assets\BoxerAnimatorController.cs" />
      <Compile Include="Assets\ControlPaleta.cs" />
      <Compile Include="Assets\FireBehaviour.cs" />
      <Compile Include="Assets\HelloWorld.cs" />
