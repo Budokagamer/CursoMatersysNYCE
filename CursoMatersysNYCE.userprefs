@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Appsorama\CarTally\Assets\Scripts\CarMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BoxerAnimatorController.cs">
     <Files>
-      <File FileName="..\..\Appsorama\CarTally\Assets\Scripts\CarMovement.cs" Line="26" Column="3" />
+      <File FileName="Assets\BoxerAnimatorController.cs" Line="25" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
