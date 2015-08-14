@@ -1,0 +1,2248 @@
+fileFormatVersion: 2
+guid: 9c162e5cc00a2c7469a0c367bfa07792
+timeCreated: 1439563056
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: timSpriteSheet_0
+    21300002: timSpriteSheet_1
+    21300004: timSpriteSheet_2
+    21300006: timSpriteSheet_3
+    21300008: timSpriteSheet_4
+    21300010: timSpriteSheet_5
+    21300012: timSpriteSheet_6
+    21300014: timSpriteSheet_7
+    21300016: timSpriteSheet_8
+    21300018: timSpriteSheet_9
+    21300020: timSpriteSheet_10
+    21300022: timSpriteSheet_11
+    21300024: timSpriteSheet_12
+    21300026: timSpriteSheet_13
+    21300028: timSpriteSheet_14
+    21300030: timSpriteSheet_15
+    21300032: timSpriteSheet_16
+    21300034: timSpriteSheet_17
+    21300036: timSpriteSheet_18
+    21300038: timSpriteSheet_19
+    21300040: timSpriteSheet_20
+    21300042: timSpriteSheet_21
+    21300044: timSpriteSheet_22
+    21300046: timSpriteSheet_23
+    21300048: timSpriteSheet_24
+    21300050: timSpriteSheet_25
+    21300052: timSpriteSheet_26
+    21300054: timSpriteSheet_27
+    21300056: timSpriteSheet_28
+    21300058: timSpriteSheet_29
+    21300060: timSpriteSheet_30
+    21300062: timSpriteSheet_31
+    21300064: timSpriteSheet_32
+    21300066: timSpriteSheet_33
+    21300068: timSpriteSheet_34
+    21300070: timSpriteSheet_35
+    21300072: timSpriteSheet_36
+    21300074: timSpriteSheet_37
+    21300076: timSpriteSheet_38
+    21300078: timSpriteSheet_39
+    21300080: timSpriteSheet_40
+    21300082: timSpriteSheet_41
+    21300084: timSpriteSheet_42
+    21300086: timSpriteSheet_43
+    21300088: timSpriteSheet_44
+    21300090: timSpriteSheet_45
+    21300092: timSpriteSheet_46
+    21300094: timSpriteSheet_47
+    21300096: timSpriteSheet_48
+    21300098: timSpriteSheet_49
+    21300100: timSpriteSheet_50
+    21300102: timSpriteSheet_51
+    21300104: timSpriteSheet_52
+    21300106: timSpriteSheet_53
+    21300108: timSpriteSheet_54
+    21300110: timSpriteSheet_55
+    21300112: timSpriteSheet_56
+    21300114: timSpriteSheet_57
+    21300116: timSpriteSheet_58
+    21300118: timSpriteSheet_59
+    21300120: timSpriteSheet_60
+    21300122: timSpriteSheet_61
+    21300124: timSpriteSheet_62
+    21300126: timSpriteSheet_63
+    21300128: timSpriteSheet_64
+    21300130: timSpriteSheet_65
+    21300132: timSpriteSheet_66
+    21300134: timSpriteSheet_67
+    21300136: timSpriteSheet_68
+    21300138: timSpriteSheet_69
+    21300140: timSpriteSheet_70
+    21300142: timSpriteSheet_71
+    21300144: timSpriteSheet_72
+    21300146: timSpriteSheet_73
+    21300148: timSpriteSheet_74
+    21300150: timSpriteSheet_75
+    21300152: timSpriteSheet_76
+    21300154: timSpriteSheet_77
+    21300156: timSpriteSheet_78
+    21300158: timSpriteSheet_79
+    21300160: timSpriteSheet_80
+    21300162: timSpriteSheet_81
+    21300164: timSpriteSheet_82
+    21300166: timSpriteSheet_83
+    21300168: timSpriteSheet_84
+    21300170: timSpriteSheet_85
+    21300172: timSpriteSheet_86
+    21300174: timSpriteSheet_87
+    21300176: timSpriteSheet_88
+    21300178: timSpriteSheet_89
+    21300180: timSpriteSheet_90
+    21300182: timSpriteSheet_91
+    21300184: timSpriteSheet_92
+    21300186: timSpriteSheet_93
+    21300188: timSpriteSheet_94
+    21300190: timSpriteSheet_95
+    21300192: timSpriteSheet_96
+    21300194: timSpriteSheet_97
+    21300196: timSpriteSheet_98
+    21300198: timSpriteSheet_99
+    21300200: timSpriteSheet_100
+    21300202: timSpriteSheet_101
+    21300204: timSpriteSheet_102
+    21300206: timSpriteSheet_103
+    21300208: timSpriteSheet_104
+    21300210: timSpriteSheet_105
+    21300212: timSpriteSheet_106
+    21300214: timSpriteSheet_107
+    21300216: timSpriteSheet_108
+    21300218: timSpriteSheet_109
+    21300220: timSpriteSheet_110
+    21300222: timSpriteSheet_111
+    21300224: timSpriteSheet_112
+    21300226: timSpriteSheet_113
+    21300228: timSpriteSheet_114
+    21300230: timSpriteSheet_115
+    21300232: timSpriteSheet_116
+    21300234: timSpriteSheet_117
+    21300236: timSpriteSheet_118
+    21300238: timSpriteSheet_119
+    21300240: timSpriteSheet_120
+    21300242: timSpriteSheet_121
+    21300244: timSpriteSheet_122
+    21300246: timSpriteSheet_123
+    21300248: timSpriteSheet_124
+    21300250: timSpriteSheet_125
+    21300252: timSpriteSheet_126
+    21300254: timSpriteSheet_127
+    21300256: timSpriteSheet_128
+    21300258: timSpriteSheet_129
+    21300260: timSpriteSheet_130
+    21300262: timSpriteSheet_131
+    21300264: timSpriteSheet_132
+    21300266: timSpriteSheet_133
+    21300268: timSpriteSheet_134
+    21300270: timSpriteSheet_135
+    21300272: timSpriteSheet_136
+    21300274: timSpriteSheet_137
+    21300276: timSpriteSheet_138
+    21300278: timSpriteSheet_139
+    21300280: timSpriteSheet_140
+    21300282: timSpriteSheet_141
+    21300284: timSpriteSheet_142
+    21300286: timSpriteSheet_143
+    21300288: timSpriteSheet_144
+    21300290: timSpriteSheet_145
+    21300292: timSpriteSheet_146
+    21300294: timSpriteSheet_147
+    21300296: timSpriteSheet_148
+    21300298: timSpriteSheet_149
+    21300300: timSpriteSheet_150
+    21300302: timSpriteSheet_151
+    21300304: timSpriteSheet_152
+    21300306: timSpriteSheet_153
+    21300308: timSpriteSheet_154
+    21300310: timSpriteSheet_155
+    21300312: timSpriteSheet_156
+    21300314: timSpriteSheet_157
+    21300316: timSpriteSheet_158
+    21300318: timSpriteSheet_159
+    21300320: timSpriteSheet_160
+    21300322: timSpriteSheet_161
+    21300324: timSpriteSheet_162
+    21300326: timSpriteSheet_163
+    21300328: timSpriteSheet_164
+    21300330: timSpriteSheet_165
+    21300332: timSpriteSheet_166
+    21300334: timSpriteSheet_167
+    21300336: timSpriteSheet_168
+    21300338: timSpriteSheet_169
+    21300340: timSpriteSheet_170
+    21300342: timSpriteSheet_171
+    21300344: timSpriteSheet_172
+    21300346: timSpriteSheet_173
+    21300348: timSpriteSheet_174
+    21300350: timSpriteSheet_175
+    21300352: timSpriteSheet_176
+    21300354: timSpriteSheet_177
+    21300356: timSpriteSheet_178
+    21300358: timSpriteSheet_179
+    21300360: timSpriteSheet_180
+    21300362: timSpriteSheet_181
+    21300364: timSpriteSheet_182
+    21300366: timSpriteSheet_183
+    21300368: timSpriteSheet_184
+    21300370: timSpriteSheet_185
+    21300372: timSpriteSheet_186
+    21300374: timSpriteSheet_187
+    21300376: timSpriteSheet_188
+    21300378: timSpriteSheet_189
+    21300380: timSpriteSheet_190
+    21300382: timSpriteSheet_191
+    21300384: timSpriteSheet_192
+    21300386: timSpriteSheet_193
+    21300388: timSpriteSheet_194
+    21300390: timSpriteSheet_195
+    21300392: timSpriteSheet_196
+    21300394: timSpriteSheet_197
+    21300396: timSpriteSheet_198
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: timSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1210
+        width: 83
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1210
+        width: 82
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1210
+        width: 83
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1210
+        width: 83
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1210
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1210
+        width: 83
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1210
+        width: 82
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1210
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1210
+        width: 83
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1210
+        width: 83
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1210
+        width: 82
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1210
+        width: 76
+        height: 141
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1210
+        width: 90
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1034
+        width: 120
+        height: 129
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1033
+        width: 118
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1030
+        width: 119
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1029
+        width: 114
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1027
+        width: 106
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1027
+        width: 104
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1029
+        width: 102
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1028
+        width: 102
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1027
+        width: 97
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1046
+        width: 101
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1054
+        width: 95
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1055
+        width: 95
+        height: 119
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1057
+        width: 97
+        height: 117
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1056
+        width: 100
+        height: 116
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1051
+        width: 114
+        height: 116
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1060
+        width: 124
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1060
+        width: 124
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1060
+        width: 124
+        height: 94
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 877
+        width: 96
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 879
+        width: 96
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 878
+        width: 101
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 878
+        width: 103
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 883
+        width: 108
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 885
+        width: 118
+        height: 127
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 884
+        width: 119
+        height: 128
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 883
+        width: 111
+        height: 129
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 881
+        width: 102
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 885
+        width: 101
+        height: 127
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 883
+        width: 98
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 878
+        width: 96
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 874
+        width: 92
+        height: 143
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 876
+        width: 95
+        height: 142
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 878
+        width: 94
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 878
+        width: 98
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 879
+        width: 101
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 881
+        width: 104
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 738
+        width: 104
+        height: 131
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 738
+        width: 104
+        height: 131
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 737
+        width: 98
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 734
+        width: 95
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 100
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 736
+        width: 104
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 736
+        width: 107
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 736
+        width: 109
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 738
+        width: 113
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 706
+        width: 108
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 706
+        width: 120
+        height: 129
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 706
+        width: 126
+        height: 129
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 707
+        width: 116
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 707
+        width: 109
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 797
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 813
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 797
+        width: 6
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 797
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 768
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 768
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 768
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 768
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 768
+        width: 4
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 738
+        width: 28
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 734
+        width: 11
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 738
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 738
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 738
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 733
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 738
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 738
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 738
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 738
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 745
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 738
+        width: 13
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 738
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 738
+        width: 12
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 738
+        width: 11
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 549
+        width: 102
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 544
+        width: 99
+        height: 142
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 553
+        width: 103
+        height: 120
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 554
+        width: 107
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 544
+        width: 102
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 543
+        width: 98
+        height: 142
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 553
+        width: 101
+        height: 122
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 554
+        width: 107
+        height: 121
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 545
+        width: 122
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 543
+        width: 129
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 544
+        width: 129
+        height: 131
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 548
+        width: 117
+        height: 127
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 548
+        width: 114
+        height: 127
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 549
+        width: 117
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 545
+        width: 112
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 545
+        width: 112
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 416
+        width: 86
+        height: 176
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 370
+        width: 106
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 370
+        width: 104
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 370
+        width: 104
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 370
+        width: 104
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 371
+        width: 103
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 370
+        width: 106
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 370
+        width: 104
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 370
+        width: 105
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 370
+        width: 107
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 371
+        width: 109
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 371
+        width: 112
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 371
+        width: 114
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 370
+        width: 113
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 370
+        width: 114
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 370
+        width: 116
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 468
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 468
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 469
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 469
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 467
+        width: 7
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 436
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 436
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 436
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 436
+        width: 123
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 432
+        width: 14
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 436
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 436
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 429
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 432
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 436
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 436
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 436
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 436
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 416
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 420
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 420
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 420
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 416
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 420
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 420
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 420
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 420
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 420
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 420
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 211
+        width: 107
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 214
+        width: 109
+        height: 131
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 214
+        width: 111
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 211
+        width: 119
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 211
+        width: 113
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 211
+        width: 116
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 210
+        width: 112
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 210
+        width: 104
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 209
+        width: 95
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 205
+        width: 92
+        height: 143
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 206
+        width: 112
+        height: 143
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 205
+        width: 114
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 206
+        width: 117
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 206
+        width: 115
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 209
+        width: 109
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 208
+        width: 107
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 208
+        width: 107
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 209
+        width: 109
+        height: 136
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 33
+        width: 82
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 32
+        width: 79
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 78
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 32
+        width: 81
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 36
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 36
+        width: 82
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 36
+        width: 82
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 36
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 36
+        width: 89
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 36
+        width: 87
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 36
+        width: 84
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 36
+        width: 83
+        height: 140
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 36
+        width: 82
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 44
+        width: 86
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 44
+        width: 84
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 44
+        width: 86
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 44
+        width: 85
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 44
+        width: 85
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 44
+        width: 86
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 44
+        width: 86
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timSpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 44
+        width: 85
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 1c3ec55a2ad81ac42bec0dd7782e2cff
+timeCreated: 1439563795
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walk_sheet_0
+    21300002: walk_sheet_1
+    21300004: walk_sheet_2
+    21300006: walk_sheet_3
+    21300008: walk_sheet_4
+    21300010: walk_sheet_5
+    21300012: walk_sheet_6
+    21300014: walk_sheet_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 256
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: walk_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 72
+        height: 188
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 322
+        width: 72
+        height: 186
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 322
+        width: 72
+        height: 188
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 72
+        height: 94
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 222
+        width: 70
+        height: 94
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 220
+        width: 68
+        height: 94
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 68
+        height: 92
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: walk_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 124
+        width: 68
+        height: 92
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: player
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

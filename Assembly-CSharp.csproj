@@ -67,6 +67,7 @@
      <Compile Include="Assets\Rebotador.cs" />
      <Compile Include="Assets\Singleton.cs" />
      <Compile Include="Assets\ThirdPersonCamera.cs" />
+     <Compile Include="Assets\TimController.cs" />
      <Compile Include="Assets\VectorExercise.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
