@@ -70,6 +70,7 @@
      <Compile Include="Assets\PickingPrimeraVersion.cs" />
      <Compile Include="Assets\PugAnimatorController.cs" />
      <Compile Include="Assets\Rebotador.cs" />
+     <Compile Include="Assets\RestarT.cs" />
      <Compile Include="Assets\Singleton.cs" />
      <Compile Include="Assets\ThirdPersonCamera.cs" />
      <Compile Include="Assets\TimController.cs" />
