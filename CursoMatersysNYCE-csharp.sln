@@ -5,6 +5,8 @@ Project("{828DB010-29E7-93D5-344A-E54CE281D678}") = "CursoMatersysNYCE", "Assemb
 EndProject
 Project("{828DB010-29E7-93D5-344A-E54CE281D678}") = "CursoMatersysNYCE", "Assembly-CSharp-vs.csproj", "{CC7FC365-AA6C-8732-9F75-4870408E957B}"
 EndProject
+Project("{828DB010-29E7-93D5-344A-E54CE281D678}") = "CursoMatersysNYCE", "Assembly-CSharp-Editor-firstpass-vs.csproj", "{D95CD3FE-99E5-D99E-05FE-544DEFF20AA5}"
+EndProject
 Project("{828DB010-29E7-93D5-344A-E54CE281D678}") = "CursoMatersysNYCE", "Assembly-CSharp-Editor-vs.csproj", "{FED0E8FD-9A99-3BC9-29F7-FCA6AA7BB6AB}"
 EndProject
 Global
@@ -21,6 +23,10 @@ Global
 		{CC7FC365-AA6C-8732-9F75-4870408E957B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC7FC365-AA6C-8732-9F75-4870408E957B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC7FC365-AA6C-8732-9F75-4870408E957B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95CD3FE-99E5-D99E-05FE-544DEFF20AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95CD3FE-99E5-D99E-05FE-544DEFF20AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95CD3FE-99E5-D99E-05FE-544DEFF20AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95CD3FE-99E5-D99E-05FE-544DEFF20AA5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FED0E8FD-9A99-3BC9-29F7-FCA6AA7BB6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FED0E8FD-9A99-3BC9-29F7-FCA6AA7BB6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FED0E8FD-9A99-3BC9-29F7-FCA6AA7BB6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,7 +35,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																											GlobalSection(MonoDevelopProperties) = preSolution
+																																																																							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

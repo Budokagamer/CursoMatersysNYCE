@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AudioManager.cs" />
      <Compile Include="Assets\BallBehaviour.cs" />
      <Compile Include="Assets\BallBehviour.cs" />
      <Compile Include="Assets\BoneBehaviour.cs" />
@@ -61,7 +62,6 @@
      <Compile Include="Assets\LightBehaviour.cs" />
      <Compile Include="Assets\LightController.cs" />
      <Compile Include="Assets\LightStrobe.cs" />
-     <Compile Include="Assets\MagicalEffects\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\MoveCube.cs" />
      <Compile Include="Assets\MyCharacterBehaviour.cs" />
      <Compile Include="Assets\NullStateBehaviour.cs" />
@@ -72,13 +72,17 @@
      <Compile Include="Assets\Rebotador.cs" />
      <Compile Include="Assets\RestarT.cs" />
      <Compile Include="Assets\Singleton.cs" />
+     <Compile Include="Assets\SnapshotChanger.cs" />
      <Compile Include="Assets\ThirdPersonCamera.cs" />
      <Compile Include="Assets\TimController.cs" />
+     <Compile Include="Assets\UnityAdsManager.cs" />
      <Compile Include="Assets\VectorExercise.cs" />
+     <None Include="Assets\Plugins\Android\unityads\proguard-project.txt" />
+     <None Include="Assets\Plugins\Android\unityads\build.xml" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
-     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Plugins\Android\unityads\res\values\strings.xml" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
-     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+     <None Include="Assets\Plugins\Android\unityads\AndroidManifest.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
